@@ -1,0 +1,1 @@
+import React from 'react'; import UploadCard from './uploadCard'; export default function Tabs() { return (<div><div className='flex gap-4 mb-4'><button className='bg-cyan-500 text-white px-4 py-2 rounded'>Upload Estimate</button><button className='bg-gray-200 px-4 py-2 rounded'>AI Output</button></div><UploadCard /></div>); }

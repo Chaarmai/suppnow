@@ -1,0 +1,1 @@
+import React from 'react'; export default function UploadCard() { return (<div className='border rounded p-4 bg-white shadow-md'><input type='file' className='mb-4'/><button className='bg-cyan-500 text-white px-4 py-2 rounded'>Submit</button></div>); }

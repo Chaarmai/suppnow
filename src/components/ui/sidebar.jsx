@@ -1,0 +1,1 @@
+import React from 'react'; export default function Sidebar() { return (<div className='w-64 bg-black text-white h-screen p-4'><h2 className='text-cyan-400 font-bold text-xl mb-4'>SuppNow</h2><ul><li className='mb-2'>Dashboard</li><li className='mb-2'>Saved Jobs</li><li className='mb-2'>Upload</li><li className='mb-2'>Settings</li></ul></div>); }

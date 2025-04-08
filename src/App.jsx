@@ -1,0 +1,1 @@
+import React from 'react'; import Tabs from './components/ui/tabs'; import Sidebar from './components/ui/sidebar'; export default function App() { return (<div className='flex'><Sidebar /><div className='flex-1 p-6'><h1 className='text-2xl font-bold text-cyan-500'>Roofing Supplementor</h1><Tabs /></div></div>); }
